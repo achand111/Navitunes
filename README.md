@@ -1,6 +1,6 @@
 # Navitunes
 
-Moves your iTunes stuff into Navidrome: playlists, loved tracks, and star ratings, through the Subsonic API. One small Tkinter window does it all — no pip packages, just Python 3.9+.
+Moves your iTunes stuff into Navidrome: playlists, loved tracks, and star ratings. No pip packages, just Python 3.9+.
 
 ## What you need
 
