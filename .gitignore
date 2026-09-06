@@ -1,0 +1,15 @@
+# iTunes exported library (personal data — never commit)
+Library.xml
+
+# Generated report CSVs + unmatched/failure logs
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+
+# OS junk
+.DS_Store
+Thumbs.db
